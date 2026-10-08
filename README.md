@@ -12,6 +12,6 @@ It is the third pass at the idea:
 
 Also here: [skills](https://github.com/l4ci/skills), sixty thinking and analysis frameworks packaged as model-agnostic agent skills, and [MocoCompanion](https://github.com/l4ci/MocoCompanion), a keyboard-driven macOS menu bar app for MOCO time tracking.
 
-Off GitHub: [Kluft](https://kluft.gg), a turn-based strategy game on a hexagonal grid. Move a piece, break a tile, and the board only ever shrinks. Play a bot, hotseat, or 1v1 online, in English or German.
+Also [Kluft](https://github.com/kluft-gg), a turn-based strategy game on a hexagonal grid. Move a piece, break a tile, and the board only ever shrinks. Play a bot, hotseat, or 1v1 online, in English or German, at [kluft.gg](https://kluft.gg).
 
 Eighteen years of building web platforms and e-commerce systems, now CTO at Digital Masters. Notes at [volkerotto.net](https://volkerotto.net).
