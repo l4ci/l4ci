@@ -2,7 +2,7 @@
 
 I build tooling that lets coding agents work like a small team: issues in, reviewed PRs out, nothing merges until the tests pass on the merged code.
 
-**[rota](https://github.com/l4ci/rota)** is the current project. One orchestrator agent hands GitHub or GitLab issues to worker agents on Claude Code and Codex, each in its own worktree, and a merge gate re-runs your suite on `main` after every merge. It keeps what it learns in the repo, so the next session starts where the last one stopped. rota built most of itself this way.
+**[rota](https://github.com/l4ci/rota)** is the current project. Coding agents write fast; rota makes sure what they merge works. An orchestrator agent hands GitHub or GitLab issues to worker agents on Claude Code, Codex or OpenCode, each in its own worktree, and a merge gate runs your suite on the merged code before anything lands. It keeps what it learns in the repo, so the next session starts where the last one stopped. rota built most of itself this way.
 
 It is the third pass at the idea:
 
